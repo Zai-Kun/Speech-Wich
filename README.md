@@ -13,9 +13,9 @@ With Speech Wich, there are no text limits. You can convert as much text as you 
 - **Always Free**: Speech Wich is completely free, with no hidden fees or paywalls. Oh, and it's open source :)
 
 ## Installation
- - Windows:
+ - Windows/Linux:
 
-    Download the zip file from the [releases page](https://github.com/Zai-Kun/Speech-Wich/releases/tag/v1.0.0), extract it, open the extracted folder, and run "Speech Wich.exe".
+    Download the zip file corresponding to your operating system from the [releases page](https://github.com/Zai-Kun/Speech-Wich/releases/tag/v1.0.0), extract its contents, open the extracted folder, and execute "Speech Wich.exe" or "Speech Wich," depending on your operating system.
 
 ## Disclaimer:
 Please note that Speech Wich does not own any of the voices or technologies used in the text-to-speech conversion process. Users are responsible for how they choose to use the tool and the content it generates.
