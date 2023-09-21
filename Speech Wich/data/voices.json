@@ -1,0 +1,594 @@
+{
+    "af-ZA": [
+        "af-ZA-AdriNeural (F)",
+        "af-ZA-WillemNeural (M)"
+    ],
+    "am-ET": [
+        "am-ET-MekdesNeural (F)",
+        "am-ET-AmehaNeural (M)"
+    ],
+    "ar-AE": [
+        "ar-AE-FatimaNeural (F)",
+        "ar-AE-HamdanNeural (M)"
+    ],
+    "ar-BH": [
+        "ar-BH-LailaNeural (F)",
+        "ar-BH-AliNeural (M)"
+    ],
+    "ar-DZ": [
+        "ar-DZ-AminaNeural (F)",
+        "ar-DZ-IsmaelNeural (M)"
+    ],
+    "ar-EG": [
+        "ar-EG-SalmaNeural (F)",
+        "ar-EG-ShakirNeural (M)"
+    ],
+    "ar-IQ": [
+        "ar-IQ-RanaNeural (F)",
+        "ar-IQ-BasselNeural (M)"
+    ],
+    "ar-JO": [
+        "ar-JO-SanaNeural (F)",
+        "ar-JO-TaimNeural (M)"
+    ],
+    "ar-KW": [
+        "ar-KW-NouraNeural (F)",
+        "ar-KW-FahedNeural (M)"
+    ],
+    "ar-LB": [
+        "ar-LB-LaylaNeural (F)",
+        "ar-LB-RamiNeural (M)"
+    ],
+    "ar-LY": [
+        "ar-LY-ImanNeural (F)",
+        "ar-LY-OmarNeural (M)"
+    ],
+    "ar-MA": [
+        "ar-MA-MounaNeural (F)",
+        "ar-MA-JamalNeural (M)"
+    ],
+    "ar-OM": [
+        "ar-OM-AyshaNeural (F)",
+        "ar-OM-AbdullahNeural (M)"
+    ],
+    "ar-QA": [
+        "ar-QA-AmalNeural (F)",
+        "ar-QA-MoazNeural (M)"
+    ],
+    "ar-SA": [
+        "ar-SA-ZariyahNeural (F)",
+        "ar-SA-HamedNeural (M)"
+    ],
+    "ar-SY": [
+        "ar-SY-AmanyNeural (F)",
+        "ar-SY-LaithNeural (M)"
+    ],
+    "ar-TN": [
+        "ar-TN-ReemNeural (F)",
+        "ar-TN-HediNeural (M)"
+    ],
+    "ar-YE": [
+        "ar-YE-MaryamNeural (F)",
+        "ar-YE-SalehNeural (M)"
+    ],
+    "az-AZ": [
+        "az-AZ-BanuNeural (F)",
+        "az-AZ-BabekNeural (M)"
+    ],
+    "bg-BG": [
+        "bg-BG-KalinaNeural (F)",
+        "bg-BG-BorislavNeural (M)"
+    ],
+    "bn-BD": [
+        "bn-BD-NabanitaNeural (F)",
+        "bn-BD-PradeepNeural (M)"
+    ],
+    "bn-IN": [
+        "bn-IN-TanishaaNeural (F)",
+        "bn-IN-BashkarNeural (M)"
+    ],
+    "bs-BA": [
+        "bs-BA-VesnaNeural (F)",
+        "bs-BA-GoranNeural (M)"
+    ],
+    "ca-ES": [
+        "ca-ES-JoanaNeural (F)",
+        "ca-ES-EnricNeural (M)"
+    ],
+    "cs-CZ": [
+        "cs-CZ-VlastaNeural (F)",
+        "cs-CZ-AntoninNeural (M)"
+    ],
+    "cy-GB": [
+        "cy-GB-NiaNeural (F)",
+        "cy-GB-AledNeural (M)"
+    ],
+    "da-DK": [
+        "da-DK-ChristelNeural (F)",
+        "da-DK-JeppeNeural (M)"
+    ],
+    "de-AT": [
+        "de-AT-IngridNeural (F)",
+        "de-AT-JonasNeural (M)"
+    ],
+    "de-CH": [
+        "de-CH-LeniNeural (F)",
+        "de-CH-JanNeural (M)"
+    ],
+    "de-DE": [
+        "de-DE-KatjaNeural (F)",
+        "de-DE-ConradNeural (M)",
+        "de-DE-AmalaNeural (F)",
+        "de-DE-KillianNeural (M)"
+    ],
+    "el-GR": [
+        "el-GR-AthinaNeural (F)",
+        "el-GR-NestorasNeural (M)"
+    ],
+    "en-AU": [
+        "en-AU-NatashaNeural (F)",
+        "en-AU-WilliamNeural (M)"
+    ],
+    "en-CA": [
+        "en-CA-ClaraNeural (F)",
+        "en-CA-LiamNeural (M)"
+    ],
+    "en-GB": [
+        "en-GB-SoniaNeural (F)",
+        "en-GB-RyanNeural (M)",
+        "en-GB-LibbyNeural (F)",
+        "en-GB-MaisieNeural (F, C)",
+        "en-GB-ThomasNeural (M)"
+    ],
+    "en-HK": [
+        "en-HK-YanNeural (F)",
+        "en-HK-SamNeural (M)"
+    ],
+    "en-IE": [
+        "en-IE-EmilyNeural (F)",
+        "en-IE-ConnorNeural (M)"
+    ],
+    "en-IN": [
+        "en-IN-NeerjaNeural (F)",
+        "en-IN-PrabhatNeural (M)"
+    ],
+    "en-KE": [
+        "en-KE-AsiliaNeural (F)",
+        "en-KE-ChilembaNeural (M)"
+    ],
+    "en-NG": [
+        "en-NG-EzinneNeural (F)",
+        "en-NG-AbeoNeural (M)"
+    ],
+    "en-NZ": [
+        "en-NZ-MollyNeural (F)",
+        "en-NZ-MitchellNeural (M)"
+    ],
+    "en-PH": [
+        "en-PH-RosaNeural (F)",
+        "en-PH-JamesNeural (M)"
+    ],
+    "en-SG": [
+        "en-SG-LunaNeural (F)",
+        "en-SG-WayneNeural (M)"
+    ],
+    "en-TZ": [
+        "en-TZ-ImaniNeural (F)",
+        "en-TZ-ElimuNeural (M)"
+    ],
+    "en-US": [
+        "en-US-JennyNeural (F)",
+        "en-US-GuyNeural (M)",
+        "en-US-AriaNeural (F)",
+        "en-US-AmberNeural (F)",
+        "en-US-AnaNeural (F, C)",
+        "en-US-AshleyNeural (F)",
+        "en-US-BrandonNeural (M)",
+        "en-US-ChristopherNeural (M)",
+        "en-US-CoraNeural (F)",
+        "en-US-ElizabethNeural (F)",
+        "en-US-EricNeural (M)",
+        "en-US-JacobNeural (M)",
+        "en-US-MichelleNeural (F)",
+        "en-US-MonicaNeural (F)",
+        "en-US-RogerNeural (M)",
+        "en-US-SteffanNeural (M)"
+    ],
+    "en-ZA": [
+        "en-ZA-LeahNeural (F)",
+        "en-ZA-LukeNeural (M)"
+    ],
+    "es-AR": [
+        "es-AR-ElenaNeural (F)",
+        "es-AR-TomasNeural (M)"
+    ],
+    "es-BO": [
+        "es-BO-SofiaNeural (F)",
+        "es-BO-MarceloNeural (M)"
+    ],
+    "es-CL": [
+        "es-CL-CatalinaNeural (F)",
+        "es-CL-LorenzoNeural (M)"
+    ],
+    "es-CO": [
+        "es-CO-SalomeNeural (F)",
+        "es-CO-GonzaloNeural (M)"
+    ],
+    "es-CR": [
+        "es-CR-MariaNeural (F)",
+        "es-CR-JuanNeural (M)"
+    ],
+    "es-CU": [
+        "es-CU-BelkysNeural (F)",
+        "es-CU-ManuelNeural (M)"
+    ],
+    "es-DO": [
+        "es-DO-RamonaNeural (F)",
+        "es-DO-EmilioNeural (M)"
+    ],
+    "es-EC": [
+        "es-EC-AndreaNeural (F)",
+        "es-EC-LuisNeural (M)"
+    ],
+    "es-ES": [
+        "es-ES-ElviraNeural (F)",
+        "es-ES-AlvaroNeural (M)"
+    ],
+    "es-GQ": [
+        "es-GQ-TeresaNeural (F)",
+        "es-GQ-JavierNeural (M)"
+    ],
+    "es-GT": [
+        "es-GT-MartaNeural (F)",
+        "es-GT-AndresNeural (M)"
+    ],
+    "es-HN": [
+        "es-HN-KarlaNeural (F)",
+        "es-HN-CarlosNeural (M)"
+    ],
+    "es-MX": [
+        "es-MX-DaliaNeural (F)",
+        "es-MX-JorgeNeural (M)"
+    ],
+    "es-NI": [
+        "es-NI-YolandaNeural (F)",
+        "es-NI-FedericoNeural (M)"
+    ],
+    "es-PA": [
+        "es-PA-MargaritaNeural (F)",
+        "es-PA-RobertoNeural (M)"
+    ],
+    "es-PE": [
+        "es-PE-CamilaNeural (F)",
+        "es-PE-AlexNeural (M)"
+    ],
+    "es-PR": [
+        "es-PR-KarinaNeural (F)",
+        "es-PR-VictorNeural (M)"
+    ],
+    "es-PY": [
+        "es-PY-TaniaNeural (F)",
+        "es-PY-MarioNeural (M)"
+    ],
+    "es-SV": [
+        "es-SV-LorenaNeural (F)",
+        "es-SV-RodrigoNeural (M)"
+    ],
+    "es-US": [
+        "es-US-PalomaNeural (F)",
+        "es-US-AlonsoNeural (M)"
+    ],
+    "es-UY": [
+        "es-UY-ValentinaNeural (F)",
+        "es-UY-MateoNeural (M)"
+    ],
+    "es-VE": [
+        "es-VE-PaolaNeural (F)",
+        "es-VE-SebastianNeural (M)"
+    ],
+    "et-EE": [
+        "et-EE-AnuNeural (F)",
+        "et-EE-KertNeural (M)"
+    ],
+    "fa-IR": [
+        "fa-IR-DilaraNeural (F)",
+        "fa-IR-FaridNeural (M)"
+    ],
+    "fi-FI": [
+        "fi-FI-SelmaNeural (F)",
+        "fi-FI-HarriNeural (M)",
+        "fi-FI-NooraNeural (F)"
+    ],
+    "fil-PH": [
+        "fil-PH-BlessicaNeural (F)",
+        "fil-PH-AngeloNeural (M)"
+    ],
+    "fr-BE": [
+        "fr-BE-CharlineNeural (F)",
+        "fr-BE-GerardNeural (M)"
+    ],
+    "fr-CA": [
+        "fr-CA-SylvieNeural (F)",
+        "fr-CA-JeanNeural (M)",
+        "fr-CA-AntoineNeural (M)"
+    ],
+    "fr-CH": [
+        "fr-CH-ArianeNeural (F)",
+        "fr-CH-FabriceNeural (M)"
+    ],
+    "fr-FR": [
+        "fr-FR-DeniseNeural (F)",
+        "fr-FR-HenriNeural (M)",
+        "fr-FR-EloiseNeural (F, C)"
+    ],
+    "ga-IE": [
+        "ga-IE-OrlaNeural (F)",
+        "ga-IE-ColmNeural (M)"
+    ],
+    "gl-ES": [
+        "gl-ES-SabelaNeural (F)",
+        "gl-ES-RoiNeural (M)"
+    ],
+    "gu-IN": [
+        "gu-IN-DhwaniNeural (F)",
+        "gu-IN-NiranjanNeural (M)"
+    ],
+    "he-IL": [
+        "he-IL-HilaNeural (F)",
+        "he-IL-AvriNeural (M)"
+    ],
+    "hi-IN": [
+        "hi-IN-SwaraNeural (F)",
+        "hi-IN-MadhurNeural (M)"
+    ],
+    "hr-HR": [
+        "hr-HR-GabrijelaNeural (F)",
+        "hr-HR-SreckoNeural (M)"
+    ],
+    "hu-HU": [
+        "hu-HU-NoemiNeural (F)",
+        "hu-HU-TamasNeural (M)"
+    ],
+    "id-ID": [
+        "id-ID-GadisNeural (F)",
+        "id-ID-ArdiNeural (M)"
+    ],
+    "is-IS": [
+        "is-IS-GudrunNeural (F)",
+        "is-IS-GunnarNeural (M)"
+    ],
+    "it-IT": [
+        "it-IT-ElsaNeural (F)",
+        "it-IT-IsabellaNeural (F)",
+        "it-IT-DiegoNeural (M)"
+    ],
+    "ja-JP": [
+        "ja-JP-NanamiNeural (F)",
+        "ja-JP-KeitaNeural (M)"
+    ],
+    "jv-ID": [
+        "jv-ID-SitiNeural (F)",
+        "jv-ID-DimasNeural (M)"
+    ],
+    "ka-GE": [
+        "ka-GE-EkaNeural (F)",
+        "ka-GE-GiorgiNeural (M)"
+    ],
+    "kk-KZ": [
+        "kk-KZ-AigulNeural (F)",
+        "kk-KZ-DauletNeural (M)"
+    ],
+    "km-KH": [
+        "km-KH-SreymomNeural (F)",
+        "km-KH-PisethNeural (M)"
+    ],
+    "kn-IN": [
+        "kn-IN-SapnaNeural (F)",
+        "kn-IN-GaganNeural (M)"
+    ],
+    "ko-KR": [
+        "ko-KR-SunHiNeural (F)",
+        "ko-KR-InJoonNeural (M)"
+    ],
+    "lo-LA": [
+        "lo-LA-KeomanyNeural (F)",
+        "lo-LA-ChanthavongNeural (M)"
+    ],
+    "lt-LT": [
+        "lt-LT-OnaNeural (F)",
+        "lt-LT-LeonasNeural (M)"
+    ],
+    "lv-LV": [
+        "lv-LV-EveritaNeural (F)",
+        "lv-LV-NilsNeural (M)"
+    ],
+    "mk-MK": [
+        "mk-MK-MarijaNeural (F)",
+        "mk-MK-AleksandarNeural (M)"
+    ],
+    "ml-IN": [
+        "ml-IN-SobhanaNeural (F)",
+        "ml-IN-MidhunNeural (M)"
+    ],
+    "mn-MN": [
+        "mn-MN-YesuiNeural (F)",
+        "mn-MN-BataaNeural (M)"
+    ],
+    "mr-IN": [
+        "mr-IN-AarohiNeural (F)",
+        "mr-IN-ManoharNeural (M)"
+    ],
+    "ms-MY": [
+        "ms-MY-YasminNeural (F)",
+        "ms-MY-OsmanNeural (M)"
+    ],
+    "mt-MT": [
+        "mt-MT-GraceNeural (F)",
+        "mt-MT-JosephNeural (M)"
+    ],
+    "my-MM": [
+        "my-MM-NilarNeural (F)",
+        "my-MM-ThihaNeural (M)"
+    ],
+    "nb-NO": [
+        "nb-NO-PernilleNeural (F)",
+        "nb-NO-FinnNeural (M)",
+        "nb-NO-IselinNeural (F)"
+    ],
+    "ne-NP": [
+        "ne-NP-HemkalaNeural (F)",
+        "ne-NP-SagarNeural (M)"
+    ],
+    "nl-BE": [
+        "nl-BE-DenaNeural (F)",
+        "nl-BE-ArnaudNeural (M)"
+    ],
+    "nl-NL": [
+        "nl-NL-FennaNeural (F)",
+        "nl-NL-MaartenNeural (M)",
+        "nl-NL-ColetteNeural (F)"
+    ],
+    "pl-PL": [
+        "pl-PL-MarekNeural (M)",
+        "pl-PL-ZofiaNeural (F)"
+    ],
+    "ps-AF": [
+        "ps-AF-LatifaNeural (F)",
+        "ps-AF-GulNawazNeural (M)"
+    ],
+    "pt-BR": [
+        "pt-BR-FranciscaNeural (F)",
+        "pt-BR-AntonioNeural (M)"
+    ],
+    "pt-PT": [
+        "pt-PT-RaquelNeural (F)",
+        "pt-PT-DuarteNeural (M)",
+        "pt-PT-FernandaNeural (F)"
+    ],
+    "ro-RO": [
+        "ro-RO-AlinaNeural (F)",
+        "ro-RO-EmilNeural (M)"
+    ],
+    "ru-RU": [
+        "ru-RU-SvetlanaNeural (F)",
+        "ru-RU-DmitryNeural (M)",
+        "ru-RU-DariyaNeural (F)"
+    ],
+    "si-LK": [
+        "si-LK-ThiliniNeural (F)",
+        "si-LK-SameeraNeural (M)"
+    ],
+    "sk-SK": [
+        "sk-SK-ViktoriaNeural (F)",
+        "sk-SK-LukasNeural (M)"
+    ],
+    "sl-SI": [
+        "sl-SI-PetraNeural (F)",
+        "sl-SI-RokNeural (M)"
+    ],
+    "so-SO": [
+        "so-SO-UbaxNeural (F)",
+        "so-SO-MuuseNeural (M)"
+    ],
+    "sq-AL": [
+        "sq-AL-AnilaNeural (F)",
+        "sq-AL-IlirNeural (M)"
+    ],
+    "sr-RS": [
+        "sr-RS-SophieNeural (F)",
+        "sr-RS-NicholasNeural (M)"
+    ],
+    "su-ID": [
+        "su-ID-TutiNeural (F)",
+        "su-ID-JajangNeural (M)"
+    ],
+    "sv-SE": [
+        "sv-SE-SofieNeural (F)",
+        "sv-SE-MattiasNeural (M)"
+    ],
+    "sw-KE": [
+        "sw-KE-ZuriNeural (F)",
+        "sw-KE-RafikiNeural (M)"
+    ],
+    "sw-TZ": [
+        "sw-TZ-RehemaNeural (F)",
+        "sw-TZ-DaudiNeural (M)"
+    ],
+    "ta-IN": [
+        "ta-IN-PallaviNeural (F)",
+        "ta-IN-ValluvarNeural (M)"
+    ],
+    "ta-LK": [
+        "ta-LK-SaranyaNeural (F)",
+        "ta-LK-KumarNeural (M)"
+    ],
+    "ta-MY": [
+        "ta-MY-KaniNeural (F)",
+        "ta-MY-SuryaNeural (M)"
+    ],
+    "ta-SG": [
+        "ta-SG-VenbaNeural (F)",
+        "ta-SG-AnbuNeural (M)"
+    ],
+    "te-IN": [
+        "te-IN-ShrutiNeural (F)",
+        "te-IN-MohanNeural (M)"
+    ],
+    "th-TH": [
+        "th-TH-PremwadeeNeural (F)",
+        "th-TH-NiwatNeural (M)",
+        "th-TH-AcharaNeural (F)"
+    ],
+    "tr-TR": [
+        "tr-TR-EmelNeural (F)",
+        "tr-TR-AhmetNeural (M)"
+    ],
+    "uk-UA": [
+        "uk-UA-PolinaNeural (F)",
+        "uk-UA-OstapNeural (M)"
+    ],
+    "ur-IN": [
+        "ur-IN-GulNeural (F)",
+        "ur-IN-SalmanNeural (M)"
+    ],
+    "ur-PK": [
+        "ur-PK-UzmaNeural (F)",
+        "ur-PK-AsadNeural (M)"
+    ],
+    "uz-UZ": [
+        "uz-UZ-MadinaNeural (F)",
+        "uz-UZ-SardorNeural (M)"
+    ],
+    "vi-VN": [
+        "vi-VN-HoaiMyNeural (F)",
+        "vi-VN-NamMinhNeural (M)"
+    ],
+    "zh-CN": [
+        "zh-CN-XiaoxiaoNeural (F)",
+        "zh-CN-YunxiNeural (M)",
+        "zh-CN-YunjianNeural (M)",
+        "zh-CN-XiaoyiNeural (F)",
+        "zh-CN-YunyangNeural (M)",
+        "zh-CN-YunxiaNeural (M)"
+    ],
+    "zh-CN-liaoning": [
+        "zh-CN-liaoning-XiaobeiNeural (F)"
+    ],
+    "zh-CN-shaanxi": [
+        "zh-CN-shaanxi-XiaoniNeural (F)"
+    ],
+    "zh-HK": [
+        "zh-HK-HiuMaanNeural (F)",
+        "zh-HK-WanLungNeural (M)",
+        "zh-HK-HiuGaaiNeural (F)"
+    ],
+    "zh-TW": [
+        "zh-TW-HsiaoChenNeural (F)",
+        "zh-TW-YunJheNeural (M)",
+        "zh-TW-HsiaoYuNeural (F)"
+    ],
+    "zu-ZA": [
+        "zu-ZA-ThandoNeural (F)",
+        "zu-ZA-ThembaNeural (M)"
+    ]
+}
