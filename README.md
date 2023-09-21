@@ -49,6 +49,8 @@ python3 "Speech Wich.py"
 
 When you are done using Speech Witch, deactivate the virtual environment like this: ```deactivate```
 
+## Bugs report/contact me.
+Join my discord server: https://discord.gg/DqxeyaDuEZ
 
 ## Disclaimer:
 
