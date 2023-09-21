@@ -1,18 +1,21 @@
-# Coming soon!
+# Speech Wich - Text-To-Speech Converter
 
-## Sneek peaks :3
-![1](https://media.discordapp.net/attachments/1144962786183622718/1153464045698027530/image.png)
-![2](https://cdn.discordapp.com/attachments/1144962786183622718/1153464584166969344/image.png)
-![3](https://cdn.discordapp.com/attachments/1144962786183622718/1153464751737798686/image.png)
+Meet Speech Wich, your handy tool for converting text into lifelike human speech without any limitations and it's 100% free.
+With Speech Wich, there are no text limits. You can convert as much text as you want into natural, human-like speech.
 
-## Results
-https://github.com/Zai-Kun/Speech-Wich/assets/122824602/f8f91742-899f-44c7-a672-41d88a0cd913
+![1](https://cdn.discordapp.com/attachments/1144962786183622718/1153464584166969344/image.png)
 
+## Features
 
+- **Unlimited Text Conversion**: Convert as much text as you need into lifelike speech without any limitations.
+- **Multiple Voices and Languages**: Choose from a diverse range of voices, accents, and languages.
+- **User-Friendly Interface**: An intuitive interface makes text-to-speech conversion easy for everyone.
+- **Always Free**: Speech Wich is completely free, with no hidden fees or paywalls. Oh, and it's open source :)
 
-https://github.com/Zai-Kun/Speech-Wich/assets/122824602/110b317e-2abf-44b2-8626-ec4cba3c6201
+## Installation
+ - Windows:
 
+    Download the zip file from the [releases page](https://github.com/Zai-Kun/Speech-Wich/releases/tag/v1.0.0), extract it, open the extracted folder, and run "Speech Wich.exe".
 
-
-https://github.com/Zai-Kun/Speech-Wich/assets/122824602/6472a8df-e033-4819-81a5-0ae81daf8770
-
+## Disclaimer:
+Please note that Speech Wich does not own any of the voices or technologies used in the text-to-speech conversion process. Users are responsible for how they choose to use the tool and the content it generates.
