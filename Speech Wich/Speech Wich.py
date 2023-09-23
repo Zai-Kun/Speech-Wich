@@ -157,7 +157,10 @@ class SpeechWich(customtkinter.CTk):
             while self.pygame_mixer.get_busy():
                 time.sleep(0.7)
         else:
-            self.audio = subprocess.Popen([self.method_to_play_audio, filename], stdout=subprocess.PIPE)
+            if platform.system() == "Windows":
+                self.audio = subprocess.Popen([self.method_to_play_audio, filename], stdout=subprocess.PIPE, creationflags=subprocess.CREATE_NO_WINDOW)
+            else:
+                self.audio = subprocess.Popen([self.method_to_play_audio, filename], stdout=subprocess.PIPE)
             self.audio.communicate()
         
         self.after(0, self.update_gui, args_for_update_gui)
