@@ -42,6 +42,7 @@ pip install -r requirements.txt
 
 5. Run the app.
 ```
+cd "Speech Wich"
 python3 "Speech Wich.py"
 ```
 
