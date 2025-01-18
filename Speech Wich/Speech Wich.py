@@ -1,8 +1,5 @@
 from threading import Thread
-import json
 import tkinter
-import shutil
-import tempfile
 import time
 import os, platform, subprocess
 import configparser
@@ -75,7 +72,7 @@ class SpeechWich(customtkinter.CTk):
                 self.pygame_mixer = mixer
                 self.pygame_mixer.init()
             except Exception as e:
-                with open('logs', 'a'):
+                with open('logs', 'a') as f:
                     f.write(f"{e}\n")
 
         self.initialize_widgets()
@@ -131,7 +128,7 @@ class SpeechWich(customtkinter.CTk):
             filename = f"converted_audio/{sanitize_filename(self.filename_entry.get())}" + ".mp3"
             
             if filename == ".mp3":
-                self.info_label.configure(text=f"Please enter a file name first.", text_color="red")
+                self.info_label.configure(text="Please enter a file name first.", text_color="red")
                 return
             elif not os.path.exists(filename) and os.path.isfile(filename):
                 self.info_label.configure(text=f"File {filename} not found.", text_color="red")
@@ -282,7 +279,7 @@ class SpeechWich(customtkinter.CTk):
     @staticmethod
     def is_tool_installed(tool_name):
         try:
-            p = subprocess.Popen([tool_name], stdout=subprocess.PIPE)
+            subprocess.Popen([tool_name], stdout=subprocess.PIPE)
             return True
         except FileNotFoundError:
             return False
