@@ -3,7 +3,7 @@
 Meet Speech Wich, your handy tool for converting text into lifelike human speech without any limitations and it's 100% free.
 With Speech Wich, there are no text limits. You can convert as much text as you want into natural, human-like speech.
 
-![1](https://cdn.discordapp.com/attachments/1144962786183622718/1153464584166969344/image.png)
+https://github.com/user-attachments/assets/69560181-08ed-4065-ba0e-dd7f5dcd61b5
 
 ## Features
 
