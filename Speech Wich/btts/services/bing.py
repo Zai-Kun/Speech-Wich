@@ -1,4 +1,3 @@
-import gc
 import re
 import os
 import json
@@ -15,7 +14,6 @@ class Bing:
     BING_TTS_API = "https://www.bing.com/tfettts?IG={}&IID=translator.5024.4"
     SSML_TEMPLATE = "<speak version='1.0' xml:lang='{}'><voice name='{}'><prosody rate='{}'>{}</prosody></voice></speak>"
     VOICES_DATA_PATH = "data/voices.json"
-    SESSION_JSON_PATH = "data/sesssion.json"
 
     def __init__(self):
         self.user_agent = None
@@ -25,20 +23,10 @@ class Bing:
         self.voices = self.load_voices()
 
     def initialize_environment(self):
-        if not os.path.exists(self.SESSION_JSON_PATH):
-            user_agent = generate_user_agent()
-            html = requests.get(self.BING_TRANSLATOR_URL, headers={"User-Agent": user_agent}).text
-            self.key, self.token, self.IG = extract_token_and_key(html)
-            with open(self.SESSION_JSON_PATH, "w") as f:
-                f.write(json.dumps({"key": self.key, "token": self.token, "IG": self.IG, "user_agent": user_agent}))
-
-        with open(self.SESSION_JSON_PATH, "r") as f:
-            session = json.loads(f.read())
-
-        if not self.user_agent: self.user_agent = session["user_agent"]
-        if not self.token: self.token = session["token"]
-        if not self.key: self.key = session["key"]
-        if not self.IG: self.IG = session["IG"]
+        user_agent = generate_user_agent()
+        html = requests.get(self.BING_TRANSLATOR_URL, headers={"User-Agent": user_agent}).text
+        self.key, self.token, self.IG = extract_token_and_key(html)
+        self.user_agent = user_agent
 
     def ctts(self, ssml_chunks, filename):
         temp_dir = tempfile.mkdtemp()
@@ -51,7 +39,6 @@ class Bing:
                     shutil.rmtree(temp_dir)
                     return error
                 if not reinitialized_environment:
-                    os.remove(self.SESSION_JSON_PATH)
                     self.initialize_environment()
                     reinitialized_environment = True
                 error = self.download_audio(ssml, f"{temp_dir}/{i}.temp")
@@ -110,13 +97,14 @@ class Bing:
             except Exception as e:
                 last_exception = e
                 time.sleep(0.5)
+
         response.close()
         return {"invalid_chunk": ssml, "exception": last_exception}
 
 
     def split_text_and_build_ssml(self, text, locale="en-US", voice="en-US-AnaNeural", speed_rate="0.00%"):
         def filter_text(text):
-            return text.replace("&", "").replace("<", "").replace(">", "")
+            return text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
         text_chunks = split_text_into_chunks(filter_text(text), max_chunk_length=3087)
         ssml_chunks = []
